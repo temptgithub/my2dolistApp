@@ -8,5 +8,5 @@ this client - server application demonstrates basic database functionality for<b
 data creation, update, and maintenance over a distributed/"cloud" platform.<br>
 To run: you need to install node (you can download or use CDN), install express.js, & <br>
 also install mongoose to utillize the mongoDB (in this case: MongoDB Atlas for cloud applications).<br>
-Keep file structure the same so the server (app.js) environment is separate from the <br>
+Keep file structure the same so the server (app.js) environment is separate from the  <br>
 "client" (index.html & editnote.html) within the client folder for easier maintenance and upkeep.
