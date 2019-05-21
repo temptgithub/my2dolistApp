@@ -1,6 +1,6 @@
 # my2dolistApp <br>
 This App will allow you to make a "todo" list.<br>
-(This App enables you to create and manage a todo list that will be stored in a database cluster in the cloud)<br>
+(The features of this App enables you to create and manage a todo list that will be stored in a database cluster in the cloud)<br>
 This project was done using - Node.js, Javascript, Express , jQuery, Html, CSS, Mongoose, mongoDB cluster in cloud<br>
 <br>
 The App allows the user to do basic CRUD operations: Create, Read, Update, Delete within a database cluster <br>
